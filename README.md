@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 
 hello! i’m charlie, 
 he/they/she
-alura’s studet and currently learning javascript language. 
+alura’s student and currently learning javascript language. 
 🎬☕📓📜
 
