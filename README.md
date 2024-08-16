@@ -5,5 +5,6 @@
 he/they/she
 
 alura’s student and currently learning javascript language. 
+
 🎬☕📓📜
 
