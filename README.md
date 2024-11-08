@@ -2,7 +2,7 @@
 
 ## hello! i’m charlie, 
 
-he/they/she
+he/they
 
 alura’s student and currently learning javascript language. 
 
